@@ -6,17 +6,17 @@
 
 ---
 
-## 🧠 Sobre mim
+##  Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-💡 Apaixonada por tecnologia e aprendizado contínuo
-🚀 Em busca da minha **primeira oportunidade como estagiária**
+ Estudante de **Análise e Desenvolvimento de Sistemas**
+ Apaixonada por tecnologia e aprendizado contínuo
+ Em busca da minha **primeira oportunidade como estagiária**
 
 Tenho me dedicado a evoluir minhas habilidades em programação, sempre buscando entender melhor a lógica e o funcionamento dos sistemas.
 
 ---
 
-## 🛠️ Tecnologias em aprendizado
+##  Tecnologias em aprendizado
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -29,25 +29,25 @@ Tenho me dedicado a evoluir minhas habilidades em programação, sempre buscando
 ---
 
 
-## 🎯 Objetivo
+##  Objetivo
 
-✨ Conseguir uma oportunidade de **estágio na área de tecnologia**, onde eu possa aprender na prática, evoluir constantemente e contribuir com a equipe.
-
----
-
-## 📫 Contato
-
-📧 **Email:** [jessicadelimadefatima@gmail.com](mailto:jessicadelimadefatima@gmail.com)
-💼 **LinkedIn:** https://linkedin.com/in/jéssica-lima-b12700342/
-📱 **WhatsApp:** https://wa.me/5544997240854
+ Conseguir uma oportunidade de **estágio na área de tecnologia**, onde eu possa aprender na prática, evoluir constantemente e contribuir com a equipe.
 
 ---
 
-## ⚡ Um pouco mais sobre mim
+##  Contato
+
+ **Email:** [jessicadelimadefatima@gmail.com](mailto:jessicadelimadefatima@gmail.com)
+ **LinkedIn:** https://linkedin.com/in/jéssica-lima-b12700342/
+ **WhatsApp:** https://wa.me/5544997240854
+
+---
+
+##  Um pouco mais sobre mim
 
 💙 Curiosa sobre o futuro da tecnologia
-📚 Sempre aprendendo algo novo
-🚀 Focada em crescimento constante
+ Sempre aprendendo algo novo
+ Focada em crescimento constante
 
 ---
 
